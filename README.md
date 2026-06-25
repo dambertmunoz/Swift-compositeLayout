@@ -33,3 +33,9 @@ Select the `CompositeLayout` scheme and run on an iOS simulator.
 - The repo is intentionally small: it isolates collection-view layout composition without introducing networking or persistence.
 - The useful extension point is adding multiple section builders and data-driven layout selection.
 - For production code, keep layout factories pure and test them through deterministic section configuration.
+
+## Author
+
+Dambert Muñoz
+
+Email: [dmsantillana2705@gmail.com](mailto:dmsantillana2705@gmail.com)
